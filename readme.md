@@ -1,13 +1,12 @@
 ## Visual Analytics Project
 
+In Collabration with Sai Charan Pullangiri (B00823341)
 
 **Technologies**
 
  - Bootstrap
  - D3
-
  - JQuery
-
  - Plotly
 
  ## Installation Instructions
