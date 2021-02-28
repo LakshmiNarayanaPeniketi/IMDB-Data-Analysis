@@ -1,6 +1,5 @@
 ## Visual Analytics Project
 
-**by Datageeks**
 
 **Technologies**
 
@@ -33,14 +32,3 @@
  - scklearn 
 
  - matplotlib
-
- **Members**
- 
-    Amirul Sunesara - B00813456
-
-    Iseoluwatobi Agbola - B00802526
-
-    Shruthi Kalasapura Ramesh - B00822766
-
-    Surabhi Chaudhary - B00826371
-
