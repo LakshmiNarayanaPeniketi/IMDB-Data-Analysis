@@ -20,7 +20,6 @@ In Collabration with Sai Charan Pullangiri (B00823341)
 
  - flask
  - pandas
-
  - numpy
 
  - scklearn 
