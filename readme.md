@@ -22,5 +22,4 @@ In Collabration with Sai Charan Pullangiri (B00823341)
  - pandas
  - numpy
  - scklearn 
-
  - matplotlib
