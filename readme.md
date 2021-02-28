@@ -19,7 +19,6 @@ In Collabration with Sai Charan Pullangiri (B00823341)
  ## Backend imports / Libraries 
 
  - flask
-
  - pandas
 
  - numpy
