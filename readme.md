@@ -4,7 +4,6 @@
 **Technologies**
 
  - Bootstrap
-
  - D3
 
  - JQuery
